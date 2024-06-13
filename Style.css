@@ -1,0 +1,139 @@
+.Main .calc {
+  margin: 0 478.2px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family:'Lucida Sans';
+  font-weight: 800;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+
+.Main .input {
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family:'Lucida Sans';
+  font-weight: 700;
+  font-size: 55px;
+  color: #FFFFFF;
+  height:142.73px;
+  width: 536px;
+  border-radius: 12px;
+  background: #181F32;
+  position: relative;
+  margin-bottom: 26.3px;
+  display: flex;
+  padding: 50px 35px 28.7px 35px;
+  box-sizing: border-box;
+}
+.Main .container {
+  padding-left: 42px;
+  overflow-wrap: break-word;
+  font-family:'Lucida Sans';
+  font-weight: 800;
+  font-size: 30px;
+  color: #3B4664;
+}
+button{
+  cursor: pointer;
+  border-radius: 12px;
+  background: #EAE3DB;
+  position: relative;
+  display: flex;
+  width: 100px;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  font-family:'Lucida Sans';
+  font-weight: 800;
+  font-size: 30px;
+  color: #3B4664;
+  justify-content: center;
+  padding: 23.1px 0 7.9px 1px;
+}
+.Main .DEl-button {
+  cursor: pointer;
+  border-radius: 12px;
+  background: #647299;
+  position: relative;
+  display: flex;
+  width: 100px;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  font-family:'Lucida Sans';
+  font-weight: 800;
+  font-size: 30px;
+  color: #ffffff;
+  justify-content: center;
+  padding: 23.1px 0 7.9px 1px;
+}
+
+
+.Main .Row{
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 22px;
+  width: 466px;
+  box-sizing: border-box;
+
+}
+.Main .button-reset {
+  padding-left: 70px;
+  overflow-wrap: break-word;
+  font-family:'Lucida Sans';
+  font-weight: 800;
+  font-size: 23px;
+  color: #FFFFFF;
+  border-radius: 11.5px;
+  background: #647299;
+  position: relative;
+  margin-right: 21.1px;
+  display: flex;
+  padding: 23.1px 0 8.9px 0.4px;
+  width: 222.4px;
+  box-sizing: border-box;
+
+}
+.Main .button-equal {
+  padding-left: 100px;
+  overflow-wrap: break-word;
+  font-family:'Lucida Sans';
+  font-weight: 800;
+  font-size: 23px;
+  color: #FFFFFF;
+  border-radius: 11.5px;
+  background: #D13F30;
+  position: relative;
+  display: flex;
+  padding: 23.1px 0 8.9px 0.4px;
+  width: 222.4px;
+  box-sizing: border-box;
+}
+.Main .Last-Row{
+  
+  margin-right: 0px;
+  display: flex;
+  flex-direction: row;
+  width: 466px;
+  box-sizing: border-box;
+}
+.Main .Main-container {
+  border-radius: 12px;
+  background: #252D44;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 35px 47px 35px;
+  width: 536px;
+  box-sizing: border-box;
+}
+.Main {
+  border: 1px solid #000000;
+  background: #3B4664;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 147px 0;
+  width: 1468px;
+  box-sizing: border-box;
+}
